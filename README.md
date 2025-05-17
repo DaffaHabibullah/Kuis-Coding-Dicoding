@@ -1,2 +1,2 @@
 # Kuis-Coding-Dicoding
-Kuis Coding: Belajar Dasar Pemrograman JavaScript
+Kuis Coding Dicoding Academy: Belajar Dasar Pemrograman JavaScript
